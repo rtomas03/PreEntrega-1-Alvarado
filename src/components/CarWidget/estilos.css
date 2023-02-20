@@ -1,0 +1,22 @@
+.cart-widget {
+    color: whitesmoke;
+    margin: 5px 7px;
+    text-decoration: none;
+}
+
+.icon{
+   font-size: 30px;
+   padding: 5px 5px;
+}
+
+.numero {
+    position: absolute;
+        top: 15px;
+        right: 150px;
+        padding: 1px 5px;
+        font-size: 14px;
+        
+}
+.cart-widget :hover {
+    color: rgb(19, 19, 119);
+}
